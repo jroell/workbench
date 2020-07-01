@@ -1,0 +1,19 @@
+{
+  "name": "workbench",
+  "version": "1.0.0",
+  "description": "scratchpad for random code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jroell/workbench.git"
+  },
+  "author": "Jason Roell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jroell/workbench/issues"
+  },
+  "homepage": "https://github.com/jroell/workbench#readme"
+}
